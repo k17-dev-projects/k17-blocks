@@ -71,7 +71,7 @@ After successful install of Klick17 Core Plugin, add blocks files into the /wp-c
 
 ## Block Render
 
-![*block render wrapper logic*]([https://s3-us-west-2.amazonaws.com/secure.notion-static.com/29c79829-de11-41c0-a972-250f56192bfa/Untitled.png](https://file.notion.so/f/s/29c79829-de11-41c0-a972-250f56192bfa/Untitled.png?spaceId=a4777fd7-7865-466d-b0d4-cb837b1a3f88&table=block&id=d57caa30-04f2-41c9-922d-cb341a3ac48b&expirationTimestamp=1678659778502&signature=BlpoqxjjP7XmtZL52tpjqqjx-NQbo8nCL1J8ObtZdsI&downloadName=Untitled.png))
+![*block render wrapper logic*](https://ibb.co/ZT9bSV9)
 
 *block render wrapper logic*
 
